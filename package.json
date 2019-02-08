@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/floh1695/tickets/issues"
   },
-  "homepage": "https://github.com/floh1695/tickets#readme"
+  "homepage": "https://github.com/floh1695/tickets#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
 }
