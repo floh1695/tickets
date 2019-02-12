@@ -2,7 +2,7 @@
 
 const prompt = require('prompt');
 
-//* ()
+//* () -> IO ()
 const welcome = () => {
   const welcomeMessage = 'Welcome to Tickets!';
   console.log(welcomeMessage);
@@ -27,16 +27,8 @@ const askForUserData = () => {
 
   const map = f => {
     prompt.start();
-
-    const lock = {};
-    let result = lock;
-    prompt.get(schema, (_, r) => result = f(r));
-    while (result === lock) {
-      /* Wait until we recieve a result */
-    }
-    return {
-      map: f => f();
-    }
+    const results = prompt.get(schema, (_, r) => f(r));
+    console.log(prompt.getInput());
   };
 
   const userData = {
