@@ -1,9 +1,0 @@
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\bin\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.deps.json
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\bin\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.dll
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\bin\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.pdb
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\obj\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.csprojAssemblyReference.cache
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\obj\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.csproj.CoreCompileInputs.cache
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\obj\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.AssemblyInfoInputs.cache
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\obj\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.AssemblyInfo.cs
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\obj\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.dll
-C:\Users\cbayley\git\tickets\FlohDotNet.Tickets.Core\obj\Debug\netcoreapp3.0\FlohDotNet.Tickets.Core.pdb
